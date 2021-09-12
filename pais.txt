@@ -1,0 +1,10 @@
+P01;USA
+P02;Ecuador
+P03;Argentina
+P04;Colombia
+P05;Mexico
+P06;Brasil
+P07;Chile
+P08;España
+P09;Uruguay
+P10;Venezuela

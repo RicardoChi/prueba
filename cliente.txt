@@ -1,0 +1,10 @@
+1;Ricardo;Chirinos;Rosas;30/11/1999;Inactivo;76815689;chirinos_3011@hotmail.com;Masculino;
+2;Jessica;Rosas;Guevara;20/03/1973;Activo;10619352;jessica_2073@hotmail.com;Femenino;
+3;Eduardo;Chirinos;Garcia;29/10/1962;Activo;07899311;e_chirinos_g@hotmail.com;Masculino;
+3;Zuleyka;Chirinos;Rosas;03/04/1991;Activo;46902485;zu_3491@hotmail.com;Femenino;
+4;Ricardo;Navarro;Toledo;07/08/1999;Inactivo;71028891;ricardomnt1999@gmail.com;Masculino;
+5;Alexandra;Chirinos;Rosas;20/10/1993;Activo;22222222;ale.milagros@hotmail.com;Femenino;
+6;Gladys;Toledo;Alcalde;18/06/1970;Inactivo;09889851;gtgladystoledo9@gmail.com;Femenino;
+7;Karoline;Bueno;Cordova;23/05/2001;Inactivo;76182742;karocordova01@gmail.com;Femenino;
+8;Junior;Hospinal;Cantorin;30/03/2021;Inactivo;123456;sdaasdasdasd;Masculino;
+9;ricardo;chirinos;roas;18/08/2021;Inactivo;1235465;sdasdasd;Masculino;
